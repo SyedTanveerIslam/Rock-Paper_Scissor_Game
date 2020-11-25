@@ -1,1 +1,1 @@
-# Rock-Paper_Scissor_Game
+A basic Rock-Paper-Scissor game.
